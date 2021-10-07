@@ -32,7 +32,7 @@ To be able to run Laravel Boilerplate you have to meet the following requirement
   
   
 <ol start="2">
-<li>Clone repository</li>
+<li>Change into the working directory</li>
 </ol>
 
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>cd laravel.tj
