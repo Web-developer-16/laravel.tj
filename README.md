@@ -23,7 +23,7 @@ To be able to run Laravel Boilerplate you have to meet the following requirement
 ## Installation
 
 <ol start="1">
-<li>Install Node.js using detailed installation instructions <a href="https://nodejs.org/en/download/package-manager/" rel="nofollow">here</a></li>
+<li>Clone repository</li>
 </ol>
 
 <ul>
