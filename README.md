@@ -52,11 +52,18 @@
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2"></svg><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-text-success m-2 d-none"></svg></clipboard-copy></div></div>
   
 
+
+
+
 <ol start="4">
-<li>Import Database</li>
+<li>Run these commands to create the tables within the defined database (MySQL)</li>
 </ol>
 
-
+  <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>php artisan migrate
+</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" 
+                    value="composer install" tabindex="0" role="button">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2"></svg><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-text-success m-2 d-none"></svg></clipboard-copy></div></div>
 
 ## Security Vulnerabilities
 
