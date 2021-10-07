@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Laravel Boilerplate Project
+## Laravel-7 "Personal Area" Project
 
 ## System Requirements
 
@@ -22,7 +22,11 @@ To be able to run Laravel Boilerplate you have to meet the following requirement
 
 ## Installation
 
-composer create-project --prefer-dist laravel/laravel:^7.0 blog
+<ul>
+<li>1. &gt;= 7.3</li>
+<li>2. &gt;= v14.x</li>
+<li>3. &gt;= 1.9.x</li>
+</ul>
 
 ## Code of Conduct
 
