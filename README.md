@@ -26,7 +26,7 @@ To be able to run Laravel Boilerplate you have to meet the following requirement
 <li>Clone repository</li>
 </ol>
 
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>$ git clone https://github.com/Web-developer-16/laravel.tj.git
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>git clone https://github.com/Web-developer-16/laravel.tj.git
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="https://github.com/Web-developer-16/laravel.tj.git" tabindex="0" role="button"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2"></svg><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-text-success m-2 d-none">
 </svg></clipboard-copy></div></div>
