@@ -44,10 +44,8 @@
   
 
 
-
-
 <ol start="4">
-<li>Run these commands to create the tables within the defined database MySQL (Database name: laravel)</li>
+<li>Run these commands to create the tables within database MySQL (Database name: laravel)</li>
 </ol>
 
   <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>php artisan migrate
