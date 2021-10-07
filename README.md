@@ -7,12 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Laravel-7
+## Laravel Boilerplate Project
 
+## System Requirements
+To be able to run Laravel Boilerplate you have to meet the following requirements:
 
+ PHP >= 7.3
+PHP Extensions: BCMath, Ctype, Fileinfo, JSON, Mbstring, OpenSSL, PDO, Tokenizer, XML, cURL, Mcrypt, GD
+Node.js >= v14.x
+Composer >= 1.9.x
 
-
-## Via Composer Create-Project
+## Installation
 
 composer create-project --prefer-dist laravel/laravel:^7.0 blog
 
