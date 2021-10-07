@@ -14,6 +14,7 @@
 ## System Requirements
 
 <ul>
+<li>Apache &gt;= 2.4</li>
 <li>PHP &gt;= 7.3</li>
 <li>Node.js &gt;= v14.x</li>
 <li>Composer &gt;= 1.9.x</li>
