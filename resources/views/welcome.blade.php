@@ -83,7 +83,7 @@
                     Laravel.tj
                 </div>
                 <div class="links">
-                    <a href="https://github.com/web-developer-16/Laravel-7--" target="_blank" >GitHub</a>
+                    <a href="https://github.com/web-developer-16/laravel.tj" target="_blank" >GitHub</a>
                     <a href="https://t.me/WEB_DEVELOPER_TJ" target="_blank" >Telegram</a>
                 </div>
             </div>
