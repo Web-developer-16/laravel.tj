@@ -10,17 +10,14 @@
 ## Laravel-7 "Personal Area" Project
 
 
-<ol start="1">
-<li>System Requirements</li>
-</ol>
 
+## System Requirements
 
 <ul>
 <li>PHP &gt;= 7.3</li>
 <li>Node.js &gt;= v14.x</li>
 <li>Composer &gt;= 1.9.x</li>
 </ul>
-
 
 ## Installation
 
@@ -56,14 +53,10 @@
   
 
 <ol start="1">
-<li>Import Database</li>
+<li>Tmport Database</li>
 </ol>
 
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>
-</code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" 
-                    value="cd laravel.tj" tabindex="0" role="button">
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2"></svg><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-text-success m-2 d-none"></svg></clipboard-copy></div></div>
+
 
 ## Security Vulnerabilities
 
