@@ -11,6 +11,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
+                        <div class="table-responsive-sm">
                         <table class="table">
                             <thead class="thead-light">
                             <tr>
@@ -33,6 +34,7 @@
                             </tr>
                             </tbody>
                         </table>
+                        </div>
                 </div>
             </div>
         </div>
